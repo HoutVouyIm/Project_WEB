@@ -1,8 +1,8 @@
 <div *ngFor="let company of companys" class="container mx-auto" (click)="setCompanyId(company.id)">
-    <div>{{company.company}}</div>
+    <div class="text-xl">{{company.company}}</div>
     <div class=" border border-gray-500">
         <div>
-            <img src={{company.image}} class="h-[300px]" alt="">
+            <img src={{company.image}} class="h-[300px] object-cover" alt="">
         </div>
     </div>
 </div>

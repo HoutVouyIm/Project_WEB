@@ -1,4 +1,18 @@
-<div>{{tempCategory.title}}</div>
+<!-- <div>{{tempCategory.title}}</div>
 <div>{{tempCategory.date}}</div>
 <div>{{tempCategory.description}}</div>
-<img src={{tempCategory.image}} />
+<img src={{tempCategory.image}} /> -->
+<div class="container mx-auto min-h-screen">
+
+
+<div class="flex flex-row gap-10 max-md:flex-col">
+    <div>
+        <img src={{tempCategory.image}} />
+    </div>
+    <div>
+        <div class="text-5xl">{{tempCategory.title}}</div>
+        <div class="text-gray-400">{{tempCategory.date}}</div>
+    </div>
+</div>
+<div class="my-10">{{tempCategory.description}}</div>
+</div>
