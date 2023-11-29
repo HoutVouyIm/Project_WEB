@@ -8,6 +8,6 @@ import { Component, Input } from '@angular/core';
 export class CardCategoryComponent {
     @Input() imgSrc: string = null ?? "../../../assets/image/category1.jpg";
     @Input() title: string = null ?? "INTERNSHIP OPPORTUNITIES";
-
+    @Input() style: string = null ?? "";
 
 }
