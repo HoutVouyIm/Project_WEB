@@ -12,7 +12,7 @@ export class CompanyService {
       {
         id: 1,
         company: 'ABA BANK',
-        image : "../../assets/image/company1.jpeg",
+        image : "../../assets/image/ABA.png",
         description: 'Here at ABA Bank, we are always looking for talented, passionate and ambitious candidates to join our growing team. We encourage you to submit your application at any time, even if your desired position is not listed in our current job openings. If we think that your qualifications and experience match with what we are looking for, we will be contacting you immediately. If you are interested, please submit your CV with your most recent photo and cover letter. Welcome to ABA Bank, Cambodia premier private financial institution. Established in 1996 as the Advanced Bank of Asia Limited, we have become Cambodia largest commercial bank by assets, deposits, loans, and profitability, according to the Annual Supervision Report 2021 and 2022 of the National Bank of Cambodia.With 27 years in the banking industry, ABA has significantly strengthened its position in the market to offer a comprehensive range of services to customer segments, including SMEs, micro-businesses, and individuals. Our wide-reaching footprint covers 87 branches, 1,500+ self-banking machines, and advanced online and mobile banking platforms, providing our customers with the convenience of modern financial services wherever they are.',
         
       },
@@ -62,7 +62,7 @@ export class CompanyService {
       {
         id: 8,
         company: 'KB Kookmin Bank',
-        image : "../../assets/image/company8.jpg",
+        image : "../../assets/image/KB.jpeg",
         description: 'KB Kookmin Bank is expanding its presence in Cambodia by merging its two affiliates there ― Prasac Microfinance Institution and Kookmin Bank Cambodia.In 2021, in line with the Cambodian Government’s initiatives to overcome the COVID-19 pandemic, we did our best to implement the special support packages such as the restructuring program. Despite various uncertainties surrounding the business environment caused by such an unprecedented event, all key financial performance indicators such as the total assets, loan assets and net profit, show remarkable growth. I wish to take this opportunity to thank all the employees and management of KDSB for overcoming the difficult situation with a great result.Even though KDSB is a latecomer in Cambodia with only our third year of full operation, KDSB became one of the leading banks in the Cambodian auto finance market which was achieved by rapid growth.',
         
       },
